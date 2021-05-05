@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="tv_char">文字</string>
+    <string name="tv_num_of_char">文字数</string>
+    <string name="bt_generate">生成</string>
+    <string name="rb_8_char">8文字</string>
+    <string name="rb_12_char">12文字</string>
+    <string name="cb_alphanumeric_char">英数字</string>
+    <string name="cb_symbol">記号</string>
+</resources>
