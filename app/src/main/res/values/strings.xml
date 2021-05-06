@@ -5,6 +5,8 @@
     <string name="bt_generate">生成</string>
     <string name="rb_8_char">8文字</string>
     <string name="rb_12_char">12文字</string>
-    <string name="cb_alphanumeric_char">英数字</string>
-    <string name="cb_symbol">記号</string>
+    <string name="rb_16_char">16文字</string>
+    <string name="rb_alphanumeric">英数字</string>
+    <string name="rb_alphanumeric_and_symbol">英数字+記号</string>
+    <string name="cb_copy">クリップボードにコピーしました</string>
 </resources>
